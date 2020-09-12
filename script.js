@@ -1,4 +1,3 @@
-
 // Variables
 var scheduledHours = [];
 var availableHours = {};
@@ -8,8 +7,7 @@ var currentTime = m.hour();
 
 // Add clock to timeCurrent id
 function clock() {
-    var dateString = moment().format("MMMM Do YYYY, h:mm:ss a");
-    $("#timeCurrent").html(dateString);
-  }
-  setInterval(clock, 1000);
-
+  var date = moment().format("YYYY Do MMMM, h:mm:ss a");
+  $("#timeCurrent").html(date);
+}
+setInterval(clock, 1000);
