@@ -1,3 +1,6 @@
+/* :root {
+    filter: invert(100%);
+  } */
 * {
   margin: 0;
   padding: 0;
@@ -13,4 +16,23 @@ body {
   text-align: center;
   background-color: transparent;
   color: black;
+  padding: 30px;
 }
+textarea{
+    background: transparent;
+    width: 100%;
+    min-height: 5rem;
+    border: none;
+    resize: none;
+    color: white;
+    border-left: white
+    padding: 10px;
+    color: black;
+  }
+  .present {
+    background-color: #ff6961;
+  }
+  
+  .future {
+    background-color: #77dd77;
+  }
