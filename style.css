@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Merriweather Sans', sans-serif;
+  font-family: "Merriweather Sans", sans-serif;
   font-size: 16px;
   line-height: 1;
   padding-bottom: 25px;
@@ -34,7 +34,6 @@ body {
   border-left: 2px solid rgb(0, 0, 0);
   padding: 10px;
   color: black;
-  
 }
 .present {
   background-color: #ff6961;
@@ -74,7 +73,7 @@ body {
 .save-button:hover {
   background-color: cornflowerblue;
 }
-/* 
+
 #myBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
@@ -89,7 +88,7 @@ body {
   padding: 15px; /* Some padding */
   border-radius: 10px; /* Rounded corners */
   font-size: 18px; /* Increase font size */
-} */
+}
 #col {
   background-color: rgb(252, 251, 246);
 }
