@@ -75,7 +75,7 @@ if (currentTime >= 0 && currentTime < 9) {
   localStorage.clear();
 }
 
-//Check for local storage to set value to the object and clearing if currentTime is between 12am and 9am
+//Check for local-storage to set value to the object and clearing if currentTime is between 12am and 9am
 if (localStorage.getItem("hoursAvailable")) {
   hoursAvailable = JSON.parse(localStorage.getItem("hoursAvailable"));
 } else {

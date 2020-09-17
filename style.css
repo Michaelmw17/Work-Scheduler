@@ -73,7 +73,7 @@ body {
 .save-button:hover {
   background-color: rgb(97, 142, 226);
 }
-/* CSS comments */
+/*CSS comments*/
 #myBtn {
   display: none; /* Hidden by default */
   position: fixed; /* Fixed/sticky position */
