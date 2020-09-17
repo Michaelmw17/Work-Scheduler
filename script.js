@@ -45,7 +45,7 @@ for (var hour = 9; hour < 18; hour++) {
           <!--scheduling column-->
              <div class='col-sm col-md-10 d-flex description'>
                 <div class='input-group'>
-                  <textarea class="form-control text-area"></textarea>
+                  <textarea id="textSpace"class="form-control text-area"></textarea>
                   <div class='input-group-append'>
                     <button class='save-button d-flex justify-center align-center'>
                       <i class='far fa-save fa-2x save-icon'></i>
@@ -56,7 +56,7 @@ for (var hour = 9; hour < 18; hour++) {
             </div>`);
 }
 
-//Checking time to determine present, past, or future
+//Check the time to determine future, present or past.
 $.each($(".time-block"), function (index, value) {
   let dateHour = $(value).attr("data-time");
   if (Number(dateHour) === m.hour()) {

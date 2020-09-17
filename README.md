@@ -58,18 +58,12 @@ michaelmw17@outlook.com
 
   - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
-- Timers
-
-  - https://medium.com/@monica1109/scheduling-settimeout-and-setinterval-ca2ee50cd99f
-
 - Accessing array items
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
-  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
-
-- Dark Mode With One Line Of Code
-
-https://dev.to/ekaterina_vu/dark-mode-with-one-line-of-code-4lkm
+  https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+  
 
 - JQuery
 https://api.jquery.com/attr/
