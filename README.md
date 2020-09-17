@@ -24,7 +24,7 @@ Work Day Scheduler
 
 <hr>
 
-<img src="./img/w5homework.png">
+<img src="./assest/w5homework.png">
 
 #### Final Interface
 
@@ -59,16 +59,16 @@ michaelmw17@outlook.com
   - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 
 - Accessing array items
+
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype
   - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
-  https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
-  
+    https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
 - JQuery
-https://api.jquery.com/attr/
-https://api.jquery.com/closest/#closest-selector
-https://api.jquery.com/jQuery.Callbacks/#stopOnFalse
-https://api.jquery.com/val/#val
-https://api.jquery.com/find/#find-selector
-https://api.jquery.com/each/#each-function
+  https://api.jquery.com/attr/
+  https://api.jquery.com/closest/#closest-selector
+  https://api.jquery.com/jQuery.Callbacks/#stopOnFalse
+  https://api.jquery.com/val/#val
+  https://api.jquery.com/find/#find-selector
+  https://api.jquery.com/each/#each-function
