@@ -66,6 +66,7 @@ michaelmw17@outlook.com
     https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
 - JQuery
+
   https://api.jquery.com/attr/
   https://api.jquery.com/closest/#closest-selector
   https://api.jquery.com/jQuery.Callbacks/#stopOnFalse
