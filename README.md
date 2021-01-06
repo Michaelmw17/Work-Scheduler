@@ -22,7 +22,7 @@ https://github.com/Michaelmw17/w5homework/blob/master/LICENSE
 
 ### Link to the App
 
-<a href=".">https://michaelmw17.github.io/w5homework/</a><hr>
+<a href="https://michaelmw17.github.io/Work-Scheduler/">LInk to Work Day Scheduler </a>
 
 <hr>
 
