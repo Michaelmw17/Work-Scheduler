@@ -1,34 +1,20 @@
-# TITLE
-
-<h1>
-Work Day Scheduler
-</h1>
+# Work Day Scheduler
 ## Contents
 
-<p>
   The app is composed of 3 pages, index.html, javascript.js and style.css. It may contain images in the img folder.
-</p>
 
 ## User Story
 
-<p>
   As a type of user, Work Scheduler that functions on the click, with a save btn ford work-data stored with local storage.
-</p>
 
 ## Built With
 
 - [VScode](https://code.visualstudio.com/) - The editor of choice.
 - [Terminal](https:///) - What would we do without our bash.
 
-#### Initial interface
-
-<hr>
+### Initial interface
 
 <img src="./assest/w5homework.png">
-
-#### Final Interface
-
--
 
 ### Licence
 
@@ -67,9 +53,9 @@ michaelmw17@outlook.com
 
 - JQuery
 
-  https://api.jquery.com/attr/
-  https://api.jquery.com/closest/#closest-selector
-  https://api.jquery.com/jQuery.Callbacks/#stopOnFalse
-  https://api.jquery.com/val/#val
-  https://api.jquery.com/find/#find-selector
-  https://api.jquery.com/each/#each-function
+  - https://api.jquery.com/attr/
+  - https://api.jquery.com/closest/#closest-selector
+  - https://api.jquery.com/jQuery.Callbacks/#stopOnFalse
+  - https://api.jquery.com/val/#val
+  - https://api.jquery.com/find/#find-selector
+  - https://api.jquery.com/each/#each-function
